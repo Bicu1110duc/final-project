@@ -3,16 +3,16 @@ function renderNews() {
 
     const newsList = [
         {
-            title: "Giá vàng thế giới tăng nhẹ do lo ngại lạm phát",
-            link: "#",
-            image: "https://via.placeholder.com/300x180",
-            description: "Giá vàng tăng do kỳ vọng FED giữ lãi suất ở mức cao hơn."
+            title: "Giá vàng nhẫn chiều 19/5 quay đầu giảm",
+            link: "https://cafef.vn/gia-vang-nhan-chieu-19-5-quay-dau-giam-188250519072021247.chn",
+            image: "https://cafefcdn.com/203337114487263232/2025/5/19/screenshot-2025-05-19-133555-1747636920282-1747636920874311486314.png",
+            description: "Trong phiên giao dịch chiều nay, một nhà vàng hạ giá vàng nhẫn xuống còn 114,2 - 117,2 triệu đồng/lượng."
         },
         {
-            title: "Vàng trong nước ổn định, chênh lệch vẫn cao",
-            link: "#",
-            image: "https://via.placeholder.com/300x180",
-            description: "Chênh lệch giá vàng trong nước và thế giới vẫn ở mức cao."
+            title: "Giá vàng thế giới giảm trở lại",
+            link: "https://vnexpress.net/gia-vang-the-gioi-giam-tro-lai-4887088.html",
+            image: "https://i1-kinhdoanh.vnecdn.net/2025/05/17/gold-2025-05-17T080119-167-174-2153-9366-1747443911.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=rJbr7MpTB9awI8fCYmvu5A",
+            description: "Thỏa thuận thương mại Mỹ - Trung Quốc vẫn gây sức ép lớn lên giá vàng, bất chấp thông tin Mỹ bị hạ xếp hạng tín nhiệm."
         }
     ];
 
